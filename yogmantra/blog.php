@@ -30,7 +30,7 @@
 <!DOCTYPE html>
 <html lang="uk">
 	<head>
-		<title>Blog - Alexis Yoga &amp; Beyond</title>
+		<title>Blog - Yogmantra </title>
 		<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 		<!--[if lte IE 8]>
@@ -170,7 +170,7 @@
 			</form>
 		</div>
 		<div class="copyright">
-			<p>Copyright &copy; 2018. Designed by <a href='http://365digitalworks.com/' target='_blank'>365digitalworks</a></p>
+			<p>Copyright &copy; 2021. Designed by <a href='https://www.linkedin.com/in/tiyasha-banerjee-06/' target='_blank'>Tiyasha Banerjee</a></p>
 		</div>
 	</footer>
 	<div class="mobileMenu">
